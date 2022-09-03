@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\sesqu\OneDrive\Documentos\Programacion\taller sem 3 ejer.1\taller sem 3 ejer.1\Source.cpp(16,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Eclipse.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+Source.obj : error LNK2005: ya se definió "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * tiposEclipses" (?tiposEclipses@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) en Eclipse.obj
+Source.obj : error LNK2005: ya se definió "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * visibilidades" (?visibilidades@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) en Eclipse.obj
+VectorEclipse.obj : error LNK2005: ya se definió "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * tiposEclipses" (?tiposEclipses@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) en Eclipse.obj
+VectorEclipse.obj : error LNK2005: ya se definió "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * visibilidades" (?visibilidades@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) en Eclipse.obj
+C:\Users\sesqu\OneDrive\Documentos\Programacion\taller sem 3 ejer.1\x64\Debug\taller sem 3 ejer.1.exe : fatal error LNK1169: se encontraron uno o más símbolos definidos simultáneamente
